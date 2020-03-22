@@ -4,7 +4,6 @@ linear linked list.
 Input linked list : |110|->|230|->|20|->|240|->|640|
 Output : 2 5 2 6 10
 */
-
 #include<stdio.h>
 #include<string.h>
 #include<malloc.h>

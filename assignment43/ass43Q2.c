@@ -1,5 +1,4 @@
-/*
-3. Write a program which returns  all even element from singly
+/* Write a program which returns  all even element from singly
 linear linked list.
 */
 #include<stdio.h>

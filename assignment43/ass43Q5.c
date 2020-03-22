@@ -1,6 +1,5 @@
 /*1. Write a program which displays all elements which are perfect from singly
 linear linked list.
-Function Prototype :
 Input linked list : |11|->|28|->|17|->|41|->|6|->|89|
 Output : 6 28*/
 

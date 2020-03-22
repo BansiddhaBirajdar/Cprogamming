@@ -1,6 +1,5 @@
 /*2. Write a program which displays all elements which are prime from singly
 linear linked list.*/
-
 #include<stdio.h>
 #include<string.h>
 #include<malloc.h>

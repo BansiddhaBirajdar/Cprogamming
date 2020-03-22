@@ -1,5 +1,4 @@
-/*4. Write a program which return second maximum element from singly linear
-linked list.*/
+/*4. Write a program which return second maximum element from singly linear linked list.*/
 #include<stdio.h>
 #include<string.h>
 #include<malloc.h>
